@@ -1,0 +1,47 @@
+# Lyn Lapid – take me as I am
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I've been lookin' too hard for a home on the top
+On the top of the surface searchin'
+Lookin' for something deep
+Thought, "It's too hard to reach"
+Never thought I was someone deservin'
+But it was all in my head, heavy weight on my chest
+Only ever left me hurtin'
+Now I'm callin' a truce on the war in my mind 'cause I'm finally learnin' I'm not
+Rollin' over, under, inside out
+Turnin' myself all the way around
+What you see is what you get, so
+Baby, you can take me as I am
+(Take it or leave it, you can take it and leave it)
+(You can take it or leave it, you can)
+Cause' I know I'ma take me as I am
+(Take it or leave it, you can take it or leave it)
+(You can take it or leave it, you can take it or leave it)
+Got me under safekeepin' for those
+Who can grow to love all my pieces
+I'm not going to settle to be tolerated
+Or put on a shelf for decoration
+And I know that means my circle gets smaller
+But it don't mean I have less left to offer
+And those I ride with will just stick around offer 'cause I'm no longer
+Rollin' over, under, inside out
+Turnin' myself all the way around
+What you see is what you get, so
+Baby, you can take me as I am
+(Take it or leave it, you can take it and leave it)
+(You can take it or leave it, you can)
+Cause' I know I'ma take me as I am
+(Take it or leave it, you can take it or leave it)
+(You can take it or leave it, you can take it or leave it)
+Take it or leave it, you can take it or leave it
+You can take it or leave it, you can take it or leave it
+Take it or leave it, you can take it or leave it
+You can take it or leave it, you can take it or leave it
+Take it or leave it, you can take it or leave it
+You can take it or leave it, you can take it or leave it
+Take it or leave it, you can take it or leave it
+You can take it or leave it, you can take it or leave it
+```
