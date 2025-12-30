@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "take me as I am",
+  "base_artist": "Lyn Lapid",
+  "createdAt": "2025-12-30T06:57:28.160052Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me as I Am",
+      "artist": "Lecrae",
+      "has_synced": true,
+      "path": "select/01_Take_Me_as_I_Am_Lecrae.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Take Me as I Am",
+      "artist": "Tonic",
+      "has_synced": true,
+      "path": "select/02_Take_Me_as_I_Am_Tonic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me as I Am",
+      "artist": "Rina Sawayama",
+      "has_synced": true,
+      "path": "select/03_Take_Me_as_I_Am_Rina_Sawayama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me as I Am",
+      "artist": "Drake White",
+      "has_synced": false,
+      "path": "select/04_Take_Me_as_I_Am_Drake_White.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Take Me as I Am",
+      "artist": "Michael Schulte",
+      "has_synced": true,
+      "path": "select/05_Take_Me_as_I_Am_Michael_Schulte.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Take Me as I Am",
+      "artist": "Bob Carlisle",
+      "has_synced": false,
+      "path": "select/06_Take_Me_as_I_Am_Bob_Carlisle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Take Me as I Am",
+      "artist": "Streetwize",
+      "has_synced": false,
+      "path": "select/07_Take_Me_as_I_Am_Streetwize.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "Drake White",
+      "has_synced": true,
+      "path": "select/08_Take_Me_As_I_Am_Drake_White.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "FM Static",
+      "has_synced": true,
+      "path": "select/09_Take_Me_As_I_Am_FM_Static.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take me as I am",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/10_Take_me_as_I_am_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/11_Take_Me_As_I_Am_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "Rumer",
+      "has_synced": true,
+      "path": "select/12_Take_Me_As_I_Am_Rumer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "take me as I am",
+      "artist": "Lyn Lapid",
+      "has_synced": false,
+      "path": "select/13_take_me_as_I_am_Lyn_Lapid.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "FM Static",
+      "has_synced": true,
+      "path": "select/14_Take_Me_As_I_Am_FM_Static.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "Carly Simon",
+      "has_synced": true,
+      "path": "select/15_Take_Me_As_I_Am_Carly_Simon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take Me As I Am",
+      "artist": "Seven Wiser",
+      "has_synced": true,
+      "path": "select/16_Take_Me_As_I_Am_Seven_Wiser.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Take Me as I Am",
+      "artist": "Example",
+      "has_synced": false,
+      "path": "select/17_Take_Me_as_I_Am_Example.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "take me as I am",
+      "artist": "Lyn Lapid",
+      "has_synced": false,
+      "path": "select/pl_01_take_me_as_I_am_Lyn_Lapid.txt"
+    }
+  ]
+}
